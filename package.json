@@ -1,0 +1,29 @@
+{
+  "name": "simple-data-grapher",
+  "version": "0.0.1",
+  "description": "Basic Web Representation System",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Git-Lotspit/Simple-Data-grapher.git"
+  },
+  "keywords": [
+    "graph",
+    "average",
+    "simple",
+    "representation"
+  ],
+  "author": "Lotspit",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Git-Lotspit/Simple-Data-grapher/issues"
+  },
+  "homepage": "https://github.com/Git-Lotspit/Simple-Data-grapher#readme",
+  "dependencies": {
+    "body-parser": "^1.14.1",
+    "express": "^4.13.3"
+  }
+}
